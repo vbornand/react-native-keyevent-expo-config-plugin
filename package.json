@@ -24,12 +24,12 @@
   ],
   "author": "Scott Pritchard",
   "devDependencies": {
-    "expo-module-scripts": "^2.1.1"
+    "expo-module-scripts": "^3.1.0"
   },
   "peerDependencies": {
-    "expo": "^46.0.2"
+    "expo": "^49.0.0"
   },
   "dependencies": {
-    "@expo/config-plugins": "^5.0.1"
+    "@expo/config-plugins": "^7.2.5"
   }
 }
